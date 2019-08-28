@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43196" started-at="2019-04-06T06:33:17Z" finished-at="2019-04-06T06:34:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43196" started-at="2019-04-06T06:33:17Z" finished-at="2019-04-06T06:34:00Z">
+      <class name="tests.Module3">
+        <test-method status="PASS" signature="tc301()[pri:0, instance:tests.Module3@5abca1e0]" name="tc301" duration-ms="3" started-at="2019-04-06T06:34:00Z" finished-at="2019-04-06T06:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc301 -->
+        <test-method status="PASS" signature="tc302()[pri:0, instance:tests.Module3@5abca1e0]" name="tc302" duration-ms="1" started-at="2019-04-06T06:34:00Z" finished-at="2019-04-06T06:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc302 -->
+        <test-method status="PASS" signature="tc303()[pri:0, instance:tests.Module3@5abca1e0]" name="tc303" duration-ms="1" started-at="2019-04-06T06:34:00Z" finished-at="2019-04-06T06:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc303 -->
+      </class> <!-- tests.Module3 -->
+      <class name="tests.Module1">
+        <test-method status="PASS" signature="tc101()[pri:0, instance:tests.Module1@56235b8e]" name="tc101" duration-ms="25839" started-at="2019-04-06T06:33:17Z" finished-at="2019-04-06T06:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc101 -->
+        <test-method status="PASS" signature="tc102()[pri:0, instance:tests.Module1@56235b8e]" name="tc102" duration-ms="0" started-at="2019-04-06T06:33:43Z" finished-at="2019-04-06T06:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc102 -->
+        <test-method status="PASS" signature="tc104()[pri:0, instance:tests.Module1@56235b8e]" name="tc104" duration-ms="0" started-at="2019-04-06T06:33:43Z" finished-at="2019-04-06T06:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc104 -->
+        <test-method status="PASS" signature="tc103()[pri:0, instance:tests.Module1@56235b8e]" name="tc103" duration-ms="0" started-at="2019-04-06T06:33:43Z" finished-at="2019-04-06T06:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc103 -->
+      </class> <!-- tests.Module1 -->
+      <class name="tests.Module2">
+        <test-method status="PASS" signature="tc201()[pri:0, instance:tests.Module2@3632be31]" name="tc201" duration-ms="17289" started-at="2019-04-06T06:33:43Z" finished-at="2019-04-06T06:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc201 -->
+        <test-method status="PASS" signature="tc202()[pri:0, instance:tests.Module2@3632be31]" name="tc202" duration-ms="1" started-at="2019-04-06T06:34:00Z" finished-at="2019-04-06T06:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc202 -->
+      </class> <!-- tests.Module2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
